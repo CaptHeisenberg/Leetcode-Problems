@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3643-zero-array-transformation-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
