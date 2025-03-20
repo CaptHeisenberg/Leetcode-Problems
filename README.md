@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
+| [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
