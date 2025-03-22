@@ -1,27 +1,28 @@
+from collections import defaultdict
+
 class Solution:
-    def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
-        # Adjacency lists for each vertex
-        graph = [[] for _ in range(n)]
-        # Map to store frequency of each unique adjacency list
-        component_freq = defaultdict(int)
+    def countCompleteComponents(self, n, edges):
+        graph = defaultdict(list)
 
-        # Initialize adjacency lists with self-loops
-        for vertex in range(n):
-            graph[vertex] = [vertex]
+        for a, b in edges:
+            graph[a].append(b)
+            graph[b].append(a)
 
-        # Build adjacency lists from edges
-        for v1, v2 in edges:
-            graph[v1].append(v2)
-            graph[v2].append(v1)
+        visited = set()
+        count = 0
 
-        # Count frequency of each unique adjacency pattern
-        for vertex in range(n):
-            neighbors = tuple(sorted(graph[vertex]))
-            component_freq[neighbors] += 1
+        def dfs(node, component):
+            component.add(node)
+            visited.add(node)
+            for neighbor in graph[node]:
+                if neighbor not in visited:
+                    dfs(neighbor, component)
 
-        # Count complete components where size equals frequency
-        return sum(
-            1
-            for neighbors, freq in component_freq.items()
-            if len(neighbors) == freq
-        )
+        for i in range(n):
+            if i not in visited:
+                component = set()
+                dfs(i, component)
+                if all(len(graph[node]) == len(component) - 1 for node in component):
+                    count += 1
+
+        return count
