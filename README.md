@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
+| [3430-count-days-without-meetings](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
