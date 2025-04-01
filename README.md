@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
