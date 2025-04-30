@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
