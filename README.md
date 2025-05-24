@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
