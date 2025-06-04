@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
 |  |
 | ------- |
