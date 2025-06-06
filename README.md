@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0792-binary-search](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
