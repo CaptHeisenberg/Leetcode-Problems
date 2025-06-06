@@ -7,4 +7,4 @@ class Solution:
             else:
                 count[num] = 1
             if count[num]>len(nums)//2:
-                    return num
+                return num
