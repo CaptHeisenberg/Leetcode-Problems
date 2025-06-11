@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0792-binary-search](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
