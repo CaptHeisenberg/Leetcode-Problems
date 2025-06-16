@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
