@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
