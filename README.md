@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0868-push-dominoes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
