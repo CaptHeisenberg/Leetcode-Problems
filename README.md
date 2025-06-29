@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0868-push-dominoes) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0217-contains-duplicate) |
