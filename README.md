@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
