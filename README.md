@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
