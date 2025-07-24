@@ -1,8 +1,7 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
-        n = len(nums)
-        for i in range(0, n):
-            for j in range(0, n-i-1):
-                if nums[j]>nums[j+1]:
-                    nums[j], nums[j+1] = nums[j+1], nums[j]
-        return nums
+    def sortColors(self, array: List[int]) -> None:
+        for i in range(len(array) - 1):
+            for j in range(len(array) - i - 1):
+                if array[j] > array [j+1]:
+                    array[j], array[j+1] = array[j+1], array[j]
+        return array
