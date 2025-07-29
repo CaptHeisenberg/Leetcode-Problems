@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
