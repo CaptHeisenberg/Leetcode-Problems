@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
