@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Indexed Tree
