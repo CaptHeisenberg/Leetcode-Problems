@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0169-majority-element) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
