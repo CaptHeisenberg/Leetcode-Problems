@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Counting
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
