@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1656-count-good-triplets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
