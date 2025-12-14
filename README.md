@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Atharva1210/git-github.com-Atharva1210-LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
